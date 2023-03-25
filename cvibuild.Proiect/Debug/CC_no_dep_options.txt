@@ -1,0 +1,1 @@
+-force-include-file "Interfata.c";"d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c" -force-include-file "Interfata.h";"d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.h" 

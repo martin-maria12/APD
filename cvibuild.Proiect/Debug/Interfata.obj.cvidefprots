@@ -1,0 +1,70 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:36:5"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:50:17"
+
+[OnPanel]
+Class="Function"
+Prototype="int OnPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:137:17"
+
+[ON_PREV]
+Class="Function"
+Prototype="int ON_PREV(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:161:17"
+
+[ON_NEXT]
+Class="Function"
+Prototype="int ON_NEXT(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:204:17"
+
+[ordin1]
+Class="Function"
+Prototype="double *ordin1(double array[], int npoints, double alpha);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:248:10"
+
+[Filtru]
+Class="Function"
+Prototype="int Filtru(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:260:17"
+
+[OnFrPanel]
+Class="Function"
+Prototype="int OnFrPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:319:17"
+
+[OnSwitchPanels]
+Class="Function"
+Prototype="int OnSwitchPanels(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:337:17"
+
+[OnLoadFRPANEL]
+Class="Function"
+Prototype="int OnLoadFRPANEL(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:360:17"
+
+[Fereastra]
+Class="Function"
+Prototype="int Fereastra(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:396:17"
+
+[OnUpperCutOffCB]
+Class="Function"
+Prototype="int OnUpperCutOffCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:663:17"
+
+[OnLowerCutOffCB]
+Class="Function"
+Prototype="int OnLowerCutOffCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:676:17"
+
+[OnTimer]
+Class="Function"
+Prototype="int OnTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Google Drive Principal\Facultate\Anul 3\Semestrul 1\Achizitia si Prelucrarea datelor\PROIECT\Interfata.c:689:17"
+
